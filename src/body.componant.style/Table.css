@@ -1,0 +1,10 @@
+.Table{
+    display: table;
+    box-sizing: border-box;
+    border: 1px solid rgb(43, 41, 41);
+    border-collapse: collapse;
+}
+.Line{
+    display: flex;
+    font-size: 5rem;
+}
